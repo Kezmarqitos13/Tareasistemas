@@ -24,7 +24,7 @@ h1, h2 {
     justify-content: space-around; 
 } 
 .galeria img { 
-    max-width: 30%; 
+    max-width: 20%; 
     border: 2px solid #ccc; 
     padding: 5px; 
     background-color: #fff; 
